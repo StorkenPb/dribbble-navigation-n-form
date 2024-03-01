@@ -9,7 +9,7 @@ const IdentityForm = () => {
       <div className="m-t border-b pb-4">
         <h2 className="text-xl font-bold">Identity</h2>
         <p className="text-gray-600">
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+          Lorem mum ipsum dolor sit amet, consectetur adipiscing elit, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
         </p>
       </div>
