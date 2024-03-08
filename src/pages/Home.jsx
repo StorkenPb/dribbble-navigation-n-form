@@ -1,3 +1,12 @@
+import Carousel from '../components/Carousel';
+import Hero from '../components/Hero';
+import ProductCard from '../components/ProductCard';
+
 export function Home() {
-  return <h1 className="ml-24">Home</h1>;
+  return (
+    <main>
+      <Hero />
+      <Carousel />
+    </main>
+  );
 }

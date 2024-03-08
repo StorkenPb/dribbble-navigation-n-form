@@ -3,7 +3,7 @@ import { HiCalendar, HiChevronDown } from 'react-icons/hi';
 
 const IdentityForm = () => {
   const inputTextStyle = `border border-gray-300 rounded-lg px-3 py-2 w-full max-w-[100%] focus:outline-none focus:border-[#444ce7]`;
-  const selectStyle = `border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 invalid:text-gray-400 [appearance:none]`;
+  const selectStyle = `border border-gray-300 rounded-lg focus:ring-blue-500 focus:border-blue-500 block w-full p-2.5 invalid:text-slate-400 [appearance:none]`;
   return (
     <div className="mx-auto max-w-[1280px] flex-1 space-y-4 rounded-md bg-white p-4">
       <div className="m-t border-b pb-4">

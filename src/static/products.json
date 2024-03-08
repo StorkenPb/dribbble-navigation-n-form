@@ -1,0 +1,32 @@
+[
+  {
+    "name": "Grilled Lemon Herb Chicken",
+    "price": 30.99,
+    "description_short": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, repudiandae!"
+  },
+  {
+    "name": "Grilled Salmon",
+    "price": 30.22,
+    "description_short": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, repudiandae!"
+  },
+  {
+    "name": "Grilled Lemon Herb Chicken",
+    "price": 30.33,
+    "description_short": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, repudiandae!"
+  },
+  {
+    "name": "Grilled Lemon Herb Chicken",
+    "price": 30.0,
+    "description_short": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, repudiandae!"
+  },
+  {
+    "name": "Grilled Lemon Herb Chicken",
+    "price": 30.99,
+    "description_short": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, repudiandae!"
+  },
+  {
+    "name": "Grilled Lemon Herb Chicken",
+    "price": 30.99,
+    "description_short": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Deleniti, repudiandae!"
+  }
+]
